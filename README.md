@@ -1,7 +1,6 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Trello](#trello)
 - [Project Structure Overview](#project-structure-overview)
 - [Usage](#usage)
 - [High Level Flow](#high-level-flow)
