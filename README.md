@@ -69,4 +69,4 @@ The service receives the result from the data access layer and prepares a HTTP r
 The controller sends the HTTP response back to the client. The response may include the status code (2xx, 4xx, 5xx), headers or a response body if needed.
 
 ## About
-• The API was meant to be hosted on a linux web server, but at the time that this comment is being written, the server is not finished and it is not something that I have done. My part in the project was solely the API, which is why I'm only pushing the API part of the project.
+• The API was meant to be hosted on a linux web server, but at the time that this comment is being written, the server has not been finished in due time. All my tasks were around constructing the API itself, which is why I'm only pushing the API part of the project.
